@@ -1,0 +1,9 @@
+AccountNumber: 123456789
+ParentPassword: parentPass
+ChildPassword: childPass
+CurrentBalance: 0.0
+Money: 0.0
+SavingsAccounts: 
+SavingsGoals: 
+Tasks: 
+Transcations: 

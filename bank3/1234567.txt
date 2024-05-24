@@ -1,0 +1,61 @@
+AccountNumber: 1234567
+ParentPassword: 234567
+ChildPassword: 123456
+CurrentBalance: 90.899962
+Money: 1.7666779999999997
+SavingsAccounts: 
+Balance: 1.0
+CreationDate: 2024-05-10
+TermMonths: 6
+Balance: 2.0
+CreationDate: 2024-05-10
+TermMonths: 12
+Balance: 1.0
+CreationDate: 2024-05-10
+TermMonths: 24
+SavingsGoals: 
+Description: toy
+TargetAmount: 50.0
+Tasks: 
+Task Description: work
+Reward: 5.0
+Transcations: 
+Type: DEPOSIT
+Amount: 2.0
+Date: 2024-05-10
+Type: DEPOSIT
+Amount: 1.0
+Date: 2024-05-10
+Type: DEPOSIT
+Amount: 1.0
+Date: 2024-05-10
+Type: WITHDRAWAL
+Amount: 1.0
+Date: 2024-05-10
+Type: DEPOSIT
+Amount: 0.0111
+Date: 2024-05-10
+Type: DEPOSIT
+Amount: 0.222222
+Date: 2024-05-10
+Type: WITHDRAWAL
+Amount: 90.0
+Date: 2024-05-10
+Type: WITHDRAWAL
+Amount: 5.0
+Date: 2024-05-10
+Type: WITHDRAWAL
+Amount: 5.0
+Date: 2024-05-10
+Type: WITHDRAWAL
+Amount: 5.0
+Date: 2024-05-10
+Type: DEPOSIT
+Amount: 1.0
+Date: 2024-05-10
+Type: DEPOSIT
+Amount: 2.0
+Date: 2024-05-10
+Type: DEPOSIT
+Amount: 1.0
+Date: 2024-05-10
