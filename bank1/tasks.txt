@@ -1,0 +1,2 @@
+Description: Reading books, Reward: 10.0
+Description: Do homework, Reward: 20.0
