@@ -1,18 +1,4 @@
 AccountNumber: 1234567
 ParentPassword: 234567
 ChildPassword: 123456
-CurrentBalance: 0.0
-Money: 120.0
-SavingsAccounts: 
-Balance: 2.0
 CreationDate: 2024-05-02
-TermMonths: 6
-Balance: 3.0
-CreationDate: 2024-05-02
-TermMonths: 12
-Balance: 4.0
-CreationDate: 2024-05-02
-TermMonths: 24
-SavingsGoals: 
-Description: Toys
-TargetAmount: 100.0
